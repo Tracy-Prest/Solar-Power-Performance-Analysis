@@ -17,8 +17,8 @@ H (%): Relative humidity
 **Files**
 - data/ — Cleaned dataset
 - notebooks/ — Python analysis notebook
-- dashboard/ — Power BI dashboard (.pbix)
-- documentation/ — Microsoft Word Document
+- dashboard/ — Power BI dashboard: https://drive.google.com/file/d/1jCHc_CALry7o2Io7h5Aiz8Zu9dQ_XbFq/view?usp=drive_link
+- documentation/ — Microsoft Word Document: https://docs.google.com/document/d/1m9qjoCjCftYa_liUWAEU-XMOW9m1_eGM/edit?usp=drive_link&ouid=114180782571271626298&rtpof=true&sd=true
 
 **Insights**
 - December showed higher power output than October and November due to cooler temperature and higher irradiance.
@@ -26,6 +26,6 @@ H (%): Relative humidity
 - Regular cleaning and monitoringis recommended to minimize efficiency loss.
 
 **How to View**
-- Open `notebooks/solarpoweranalysis.ipynb` for full Python analysis.
-- Open `dashboard/solarpowerperformanceanalysis.pbix` to explore the dashboard.
-- Open 'document/solarpwerperformanceanalysisdocumentation.doc' to view analysis report.
+- Open `notebooks/solarpoweranalysis.ipynb` for full Python analysis note book or view https://drive.google.com/file/d/1xxamMPox2JLVYuAXsA82bkX2khD3HyKt/view?usp=sharing for code.
+- Open https://drive.google.com/file/d/1jCHc_CALry7o2Io7h5Aiz8Zu9dQ_XbFq/view?usp=drive_link to explore the dashboard.
+- Open https://docs.google.com/document/d/1m9qjoCjCftYa_liUWAEU-XMOW9m1_eGM/edit?usp=drive_link&ouid=114180782571271626298&rtpof=true&sd=true to view analysis report.
